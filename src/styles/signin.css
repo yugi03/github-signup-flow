@@ -1,0 +1,40 @@
+.form-body {
+    border: 1px solid #d8dee2;
+    padding: 20px;
+    font-size: 14px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.form-header h1 {
+    margin-bottom: 15px;
+    color: #333;
+    text-shadow: none;
+    background-color: initial;
+    border: 0;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: -0.5px;
+}
+
+label {
+    font-weight: 600;
+}
+
+.label-link {
+    float: right;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.btn-block {
+    width: 100%;
+}
+
+.create-account-callout {
+    border: 1px solid #d8dee2;
+    font-size: 14px;
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center;
+}
