@@ -36,7 +36,7 @@ class Signin extends React.Component {
                         </form>
                         <div className="mt-3 pt-3 pb-3 create-account-callout">
                             New to Github?
-                            <a href="www.google.com">   Create an account.</a>
+                            <a href="/signup">   Create an account.</a>
                         </div>
                     </div>
                 </div>
