@@ -3,13 +3,14 @@ require('styles/App.css');
 
 import React from 'react';
 import Signin from './signin';
-
+import Signup from './signup';
 
 class AppComponent extends React.Component {
   render() {
     return (
       <div>
-        <Signin />
+        {/* <Signin /> */}
+        <Signup />
       </div>
     );
   }
